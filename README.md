@@ -1,30 +1,50 @@
 # Hi, I'm Walid Sattar
 
-Technical Support Engineer with experience troubleshooting production systems and supporting enterprise applications. I specialize in root cause analysis, incident response, and improving system reliability. Currently expanding my hands-on experience in AWS and cloud infrastructure.
+Technical Support Engineer with experience troubleshooting production systems, supporting enterprise applications, and performing root cause analysis. I focus on resolving complex issues, improving system reliability, and delivering strong customer outcomes.
+
+I’m currently expanding my hands-on experience in AWS, API troubleshooting, and automation as I grow toward Cloud and Infrastructure Support roles.
+
+---
 
 ## Core Skills
 
+- Production incident investigation and triage
+- Root cause analysis and log analysis
+- Linux system troubleshooting
 - AWS: EC2, CloudWatch, security groups
-- Linux system administration and troubleshooting
-- Production incident investigation and root cause analysis
-- Log analysis and system diagnostics
+- API troubleshooting and validation
 - Customer-facing technical support
-- Cross-team collaboration with engineering
+- Cross-functional collaboration with engineering teams
+
+---
+
+## Featured Projects
+
+### AWS EC2 Lab
+Hands-on cloud lab demonstrating instance deployment, web server configuration, monitoring, and production-style troubleshooting.
+
+Repo:  
+https://github.com/walidsattar/aws-ec2-lab
+
+---
+
+### API Support Toolkit
+Python-based utilities for troubleshooting API issues, including endpoint validation, response analysis, and performance checks.
+
+Repo:  
+https://github.com/walidsattar/api-support-toolkit
+
+---
 
 ## Currently Learning
 
 - Kubernetes (EKS)
-- Docker
-- Cloud monitoring and automation best practices
+- Docker fundamentals
+- Cloud monitoring and operational best practices
+- Python automation for support workflows
 
-## Featured Projects
-
-- **[AWS EC2 Lab](https://github.com/walidsattar/aws-ec2-lab)**  
-  Deployed and configured a web server on EC2 with monitoring and production-style troubleshooting scenarios.
-
-- **[APIO Support Toolkit](https://github.com/walidsattar/apio-support-toolkit)**  
-  Collection of support runbooks, troubleshooting workflows, and tools used for investigating production issues.
+---
 
 ## Focus
 
-I’m actively building hands-on cloud and infrastructure projects to strengthen my skills in cloud operations and technical support engineering.
+I’m actively building practical projects that reflect real-world support scenarios across cloud infrastructure, APIs, and system operations.
